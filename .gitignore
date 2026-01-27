@@ -1,0 +1,11 @@
+.agent/
+.agents/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.kiro/
+.opencode/
+.windsurf/
+.github/skills/
+assets/
