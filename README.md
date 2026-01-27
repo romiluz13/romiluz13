@@ -63,7 +63,7 @@ const romIluz = {
         hybridRAG: "State-of-the-art retrieval systems"
     },
     philosophy: "Make AI work FOR humans, not replace them",
-    inspiration: "Lenny 🦁" // Be brave, be bold, be kind
+    inspiration: "Building meaningful tech"
 };
 ```
 
@@ -182,39 +182,7 @@ const romIluz = {
 
 </div>
 
-<!-- LION TRIBUTE - FOR LENNY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" width="30"> The Lion's Code
 
-<div align="center">
-
-```
-                             ,%%%%%%%%,
-                           ,%%/\%%%%/\%%
-                          ,%%%\c]% [c/%%%
-                  %%%%%%%%,%%%%%    %%%%_%%%%
-                 %%%%%%%%.%%%%%%%%%%%%%%%%%`%%
-            ,%% %%%%,%%%,%%%%%%%%%%%%%%%%%%%%%  %%,
-           ,%%  %%%%,%%,`%%%%%%%%%%%%/\'%%%%%%   %%,
-          ,%%   %%%%,%%%%,`%%%%%%%%/'   `%%,%%   `%%
-         ,%%    %%%%,`%%%%,`%%%%%/'       \%%%%    %%,
-        ,%%     `%%%% `%%%%,`%%%/'         `%%%%   `%%
-       ,%%       `%%%% `%%%%,%%/'           `%%%%   %%,
-      ,%%         `%%%%  %%%,/'              `%%%%  `%%
-     ,%% LENNY     `%%%%   /'    "Be brave,   %%%%   %%
-     %%             `%%%% /'      be bold,    %%%%   %%
-     %%              `%%%%%%       be kind"   %%%%   %'
-     `%               `%%%%                  ,%%%   %'
-      `%               `%%                  ,%%%   %'
-       `%,              `%                 ,%%%   %'
-         %,                               ,%%%  ,'
-          %,                             ,%%% ,'
-           `%,                          ,%% ,'
-             `%%,                      ,%%,'
-                `%%,_              _,%%'
-                    `%%%%%%%%%%%%%'
-```
-
-</div>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
@@ -255,19 +223,7 @@ const romIluz = {
 
 </div>
 
-<!-- QUOTE -->
-<div align="center">
 
-<br/>
-
-```
-"Have the courage of a lion, the heart of a builder,
- and the wisdom to know that AI should serve humanity."
-
-                        🦁 For Lenny
-```
-
-</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
