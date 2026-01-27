@@ -247,7 +247,7 @@ const romIluz = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-romiluz13-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romiluz13)
-[![Email](https://img.shields.io/badge/Email-rom.iluz13@gmail.com-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:rom.iluz13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rom@iluz.net-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:rom@iluz.net)
 
 <br/>
 
