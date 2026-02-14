@@ -215,13 +215,7 @@ const romIluz = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-romiluz13-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romiluz13)
-<<<<<<< HEAD
-[![Email](https://img.shields.io/badge/Email-rom.iluz13@gmail.com-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:rom.iluz13@gmail.com)
-||||||| parent of b3a6bf4 (Update star counts and bio email)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-=======
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rom@iluz.net)
->>>>>>> b3a6bf4 (Update star counts and bio email)
 
 <br/>
 
