@@ -79,7 +79,7 @@ const romIluz = {
 <td width="50%" valign="top">
 
 ### 🔥 Hybrid-Search-RAG
-**⭐ 59 stars** | The Ultimate RAG System
+**⭐ 60 stars** | The Ultimate RAG System
 
 <a href="https://github.com/romiluz13/Hybrid-Search-RAG">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=Hybrid-Search-RAG&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
@@ -105,7 +105,7 @@ const romIluz = {
 <td width="50%" valign="top">
 
 ### ⚡ CC10X
-**⭐ 39 stars** | Supercharge Claude Code
+**⭐ 101 stars** | Supercharge Claude Code
 
 <a href="https://github.com/romiluz13/cc10x">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=cc10x&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
@@ -215,7 +215,13 @@ const romIluz = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-romiluz13-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romiluz13)
+<<<<<<< HEAD
 [![Email](https://img.shields.io/badge/Email-rom.iluz13@gmail.com-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:rom.iluz13@gmail.com)
+||||||| parent of b3a6bf4 (Update star counts and bio email)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+=======
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rom@iluz.net)
+>>>>>>> b3a6bf4 (Update star counts and bio email)
 
 <br/>
 
