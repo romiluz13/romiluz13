@@ -23,6 +23,13 @@
 
 <br/>
 
+<!-- COGNITIVE ARCHITECTURE LOOP ANIMATION -->
+<p align="center">
+  <img src="docs/assets/cognitive-loop.svg" width="100%" alt="Cognitive Loop Architecture" />
+</p>
+
+<br/>
+
 <!-- THE PSYCHOLOGICAL WOW GRID (METRICS) -->
 <table align="center" style="border-collapse: collapse; border: none; margin: 30px 0;">
   <tr style="border: none;">
