@@ -1,139 +1,123 @@
 <div align="center">
 
-<!-- ELEGANT HEADLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=ROM+ILUZ" alt="Rom Iluz" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=ROM+ILUZ" alt="Rom Iluz" />
 
-<h2>Agent Architect &bull; Lead AI Engineer &bull; Harness Engineer</h2>
+<h2 style="margin-top: 8px; color: #c9d1d9;">Agent Architect &nbsp;•&nbsp; Lead AI Engineer &nbsp;•&nbsp; Harness Engineer</h2>
 
-<p align="center">
-  <b>Designing persistent memory systems, custom Model Context Protocols, and self-healing agent harnesses.</b>
+<p style="max-width: 620px; color: #8b949e; font-size: 15px;">
+  Designing persistent memory systems, custom Model Context Protocols,<br>
+  and self-healing agent harnesses that actually work in production.
 </p>
 
-<!-- PREMIUM SUBTITLE -->
-<p align="center">
-  I build production-grade, enterprise-scale infrastructure that bridges the gap between Large Language Models and real-world database environments.
-</p>
-
-<!-- MINIMALIST SOCIAL LABELS -->
-<p align="center">
-  <a href="https://github.com/romiluz13"><b>GitHub</b></a> &bull; 
-  <a href="https://www.linkedin.com/in/rom-iluz"><b>LinkedIn</b></a> &bull; 
+<p style="margin-top: 16px;">
+  <a href="https://github.com/romiluz13"><b>GitHub</b></a> &nbsp;•&nbsp; 
+  <a href="https://www.linkedin.com/in/rom-iluz"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
   <a href="mailto:rom@iluz.net"><b>Email</b></a>
 </p>
 
-<br/>
+<br>
 
-<!-- COGNITIVE ARCHITECTURE LOOP ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/romiluz13/romiluz13/main/docs/assets/cognitive-loop.svg" width="100%" alt="Cognitive Loop Architecture" />
-</p>
-
-<br/>
-
-<!-- THE PSYCHOLOGICAL WOW GRID (METRICS) -->
-<table align="center" style="border-collapse: collapse; border: none; margin: 30px 0;">
+<!-- METRICS -->
+<table align="center" style="border: none; border-collapse: collapse; margin: 20px 0;">
   <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0 40px; border-right: 1px solid #30363d;">
-      <font size="6" color="#00D9FF"><b>145+ ⭐</b></font><br/>
-      <font size="2" color="#8b949e"><b>CC10X</b></font>
+    <td align="center" style="border: none; padding: 0 48px; border-right: 1px solid #30363d;">
+      <div style="font-size: 28px; font-weight: 700; color: #00D9FF; line-height: 1;">145+</div>
+      <div style="font-size: 11px; color: #8b949e; letter-spacing: 1.5px; margin-top: 4px;">STARS ON CC10X</div>
     </td>
-    <td align="center" style="border: none; padding: 0 40px; border-right: 1px solid #30363d;">
-      <font size="6" color="#00FF88"><b>24+ ⭐</b></font><br/>
-      <font size="2" color="#8b949e"><b>CLAWMONGO</b></font>
+    <td align="center" style="border: none; padding: 0 48px; border-right: 1px solid #30363d;">
+      <div style="font-size: 28px; font-weight: 700; color: #00FF88; line-height: 1;">24+</div>
+      <div style="font-size: 11px; color: #8b949e; letter-spacing: 1.5px; margin-top: 4px;">STARS ON CLAWMONGO</div>
     </td>
-    <td align="center" style="border: none; padding: 0 40px;">
-      <font size="6" color="#00D9FF"><b>18</b></font><br/>
-      <font size="2" color="#8b949e"><b>NPM PACKAGES</b></font>
+    <td align="center" style="border: none; padding: 0 48px;">
+      <div style="font-size: 28px; font-weight: 700; color: #00D9FF; line-height: 1;">18</div>
+      <div style="font-size: 11px; color: #8b949e; letter-spacing: 1.5px; margin-top: 4px;">NPM PACKAGES</div>
     </td>
   </tr>
 </table>
 
 </div>
 
-<br/>
-
 ---
 
-### 🧠 Core Philosophy
+### Core Philosophy
+
 > "An agent is only as powerful as its execution harness and its memory layer."
 
-I specialize in the cognitive engineering of AI systems. Instead of treating agents as black-box prompt-wrappers, I design custom execution harnesses, self-healing routing algorithms, and multi-tier memory systems (episodic memory, knowledge graphs, and vector databases) that allow LLMs to operate reliably and autonomously in production.
+I don't build chatbots. I build the infrastructure that lets autonomous agents run reliably for hours, days, or weeks — with real memory, real retrieval, and real execution control.
 
 ---
 
-### ⚡ Featured Infrastructure
+### Featured Work
 
-#### 🤖 [cc10x](https://github.com/romiluz13/cc10x) — 145+ Stars
-**Router-Owned Claude Code Harness** — The execution layer that makes Claude Code reliable at scale.
+**cc10x** — [145+ stars](https://github.com/romiluz13/cc10x)  
+The execution harness that makes Claude Code actually production-grade. Multi-agent routing, self-healing workflows, context budget control.
 
-#### 🦁 [ClawMongo](https://github.com/romiluz13/ClawMongo) — 24+ Stars
-**MongoDB-Native AI Memory Engine** — Production episodic memory, vector search, and knowledge graphs for autonomous agents. The canonical memory backend for serious agent work.
+**ClawMongo** — [24+ stars](https://github.com/romiluz13/ClawMongo)  
+MongoDB-native memory engine for agents. Episodic memory, vector search, knowledge graphs, and 8 retrieval paths — all in one database. The real replacement for toy memory stores.
 
-#### 🧠 [Memongo](https://github.com/romiluz13/Memongo)
-**Persistent Memory Infrastructure** — Core memory systems powering next-generation autonomous agents.
+**Memongo**  
+Core persistent memory systems designed specifically for long-running autonomous agents.
 
-#### 📚 [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG) — 63+ Stars
-**State-of-the-Art Hybrid Retrieval** — BM25 + semantic embeddings + cross-encoder reranking at production scale.
+**Hybrid-Search-RAG** — [63+ stars](https://github.com/romiluz13/Hybrid-Search-RAG)  
+Production hybrid retrieval at scale. BM25 + semantic embeddings + cross-encoder reranking. Not a toy RAG pipeline.
 
-#### 💬 [whatsapp_ai](https://github.com/romiluz13/whatsapp_ai) — 43+ Stars
-**Conversational AI Automation** — Production-grade WhatsApp + LLM integration.
-
----
-
-### 📦 Published SDKs & Packages
-
-I package my research into robust NPM modules and libraries to streamline agent integration:
-
-*   **`@romiluz/clawmongo`** — High-performance, MongoDB-backed episodic memory gateway for autonomous agents.
-*   **`@romiluz13/memory-mcp`** — Persistent memory Model Context Protocol (MCP) server supporting Cursor, Windsurf, and Claude.
-*   **`@romiluz13/EmbeDocs-MCP`** — Dynamic document embedding and vector pipelines exposed via the MCP protocol.
+**whatsapp_ai** — [43+ stars](https://github.com/romiluz13/whatsapp_ai)  
+Real conversational automation at scale. WhatsApp + LLMs done properly.
 
 ---
 
-### 🛠️ Cognitive Stack
+### Published Packages
 
-*   **Execution & Runtimes:** Bun, Node.js, Python (uv), Docker, Go, Rust.
-*   **Databases & Vector Engines:** MongoDB (Community & Atlas), mongot, Voyage AI, Vector Search, Knowledge Graphs.
-*   **Protocols & Tooling:** Model Context Protocol (MCP), Custom Routing Harnesses (`cc10x`), Claude Code, Cursor Rules.
+- **`@romiluz/clawmongo`** — MongoDB-backed episodic memory for autonomous agents
+- **`@romiluz13/memory-mcp`** — Persistent memory MCP server for Cursor, Windsurf, Claude
+- **`@romiluz13/EmbeDocs-MCP`** — Document embedding pipelines via MCP
 
 ---
 
-### 📊 Real-Time Telemetry
+### Stack
+
+**Runtimes:** Bun, Node.js, Python (uv), Docker  
+**Databases:** MongoDB (Atlas + Community), mongot, Voyage AI  
+**Protocols:** Model Context Protocol, Custom Agent Harnesses, Claude Code, Cursor Rules
+
+---
+
+### Telemetry
 
 <div align="center">
 
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td valign="top" style="border: none; padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=romiluz13&show_icons=true&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=false&count_private=true" width="400" />
+    <td style="border: none; padding-right: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=romiluz13&show_icons=true&theme=react&bg_color=0D1117&border_color=21262d&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&hide_border=true&count_private=true" width="380" />
     </td>
-    <td valign="top" style="border: none; padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiluz13&layout=compact&theme=react&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=false&langs_count=8" width="350" />
+    <td style="border: none; padding-left: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiluz13&layout=compact&theme=react&bg_color=0D1117&border_color=21262d&title_color=00D9FF&text_color=c9d1d9&hide_border=true&langs_count=8" width="330" />
     </td>
   </tr>
 </table>
 
-<br/>
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=romiluz13&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" />
 
 </div>
 
-<br/>
-
 ---
 
-### 🤝 Let's Collaborate
+<div align="center" style="margin-top: 40px;">
 
-I work with teams building high-impact AI orchestrators, custom database integrations, and advanced enterprise-grade RAG systems. If you want to solve hard problems at the intersection of agent protocols and persistent memory, feel free to reach out.
+I work with teams building serious agent infrastructure.<br>
+If you're solving hard problems at the intersection of memory, protocols, and execution — let's talk.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rom-iluz"><b>LinkedIn</b></a> &bull; 
-  <a href="mailto:rom@iluz.net"><b>Email</b></a> &bull; 
-  <a href="https://github.com/romiluz13"><b>GitHub</b></a>
-</p>
+<br><br>
 
-<div align="center">
-  <!-- VISITOR COUNTER -->
-  <img src="https://profile-counter.glitch.me/romiluz13/count.svg" />
+<a href="https://www.linkedin.com/in/rom-iluz"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
+<a href="mailto:rom@iluz.net"><b>Email</b></a> &nbsp;•&nbsp; 
+<a href="https://github.com/romiluz13"><b>GitHub</b></a>
+
+<br><br>
+
+<img src="https://profile-counter.glitch.me/romiluz13/count.svg" />
+
 </div>
