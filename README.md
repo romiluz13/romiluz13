@@ -10,67 +10,82 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%F0%9F%A7%A0+ROM+ILUZ;AI+Engineer+%7C+Agent+Architect+%7C+MCP+Builder" alt="Rom Iluz - AI Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A7%A0+ROM+ILUZ;Agent+Architect+%7C+AI+Engineer;MCP+Builder+%7C+Harness+Engineer" alt="Rom Iluz - AI & Harness Engineer" />
 
-<!-- NEURAL NETWORK VISUALIZATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20MCP%20Servers%20%E2%80%A2%20Memory%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+<!-- DYNAMIC NEURAL CAPSULE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00D9FF&height=200&section=header&text=SYSTEM_INIT:%20ROM_ILUZ_v10.1&fontSize=42&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Autonomous%20Agents%20%E2%80%A2%20Memory%20Engineering%20%E2%80%A2%20MCP%20%E2%80%A2%20Harnesses&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
-<!-- QUICK INTRO -->
+<!-- QUICK STATUS TERMINAL -->
 <div align="center">
 
 ```ascii
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   > Architecting the future of AI-powered applications           │
-│   > Specializing in autonomous agents with persistent memory     │
-│   > Building bridges between LLMs and the real world via MCP     │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  STATUS: ACTIVE // COGNITIVE_THREAD: RUNNING // WORKSPACE: PRODUCTION  │
+│  > Architecting persistent memory systems for autonomous AI agents     │
+│  > Building real-world database bridges via Model Context Protocol     │
+│  > Elevating Claude Code and agentic execution graphs to 100x speed    │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/romiluz13?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF)](https://github.com/romiluz13?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/romiluz13?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF)](https://github.com/romiluz13?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/romiluz13?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/romiluz13?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/romiluz13?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/romiluz13?tab=repositories)
 ![Profile Views](https://komarev.com/ghpvc/?username=romiluz13&style=for-the-badge&color=00D9FF&labelColor=0D1117)
 
 </div>
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 📜 `<system_prompt>`
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+```yaml
+role: Lead AI Engineer, Agent Architect, & Harness Engineer
+mission: Design and deploy reliable, self-evolving, persistent multi-agent ecosystems.
+specialization:
+  - Memory Engineering (Episodic memory, knowledge graphs, vector search)
+  - Protocol Design (Custom Model Context Protocol servers)
+  - Harness Engineering & Prompt Tuning (Self-healing workflows, custom router design)
+  - Production RAG (Hybrid search, semantic cache, advanced rerankers)
+core_principle: "Make AI work FOR humans, not replace them."
+```
+
+<br/>
+
+## 🧠 `<cognitive_architecture>`
+
+An agent is only as powerful as its cognitive stack. Here is the operational environment I run:
 
 ```typescript
-const romIluz = {
-    pronouns: "he" | "him",
-    location: "Building the future 🌍",
-    focus: [
-        "🤖 Autonomous AI Agents",
-        "🧠 Memory Engineering",
-        "🔗 MCP Server Development",
-        "📚 RAG & Hybrid Search",
-        "💬 Conversational AI"
-    ],
-    currentlyBuilding: {
-        cc10x: "10x your Claude Code workflow",
-        memoryMCP: "Persistent memory for AI agents",
-        hybridRAG: "State-of-the-art retrieval systems"
-    },
-    philosophy: "Make AI work FOR humans, not replace them",
-    inspiration: "Building meaningful tech"
+const agentCore = {
+  executionRuntime: ["Bun", "Node.js", "Python (uv)", "Docker"],
+  languages: ["TypeScript", "JavaScript", "Python", "Rust", "Go"],
+  databaseTier: {
+    primary: "MongoDB (Community & Atlas)",
+    features: ["Vector Search", "mongot", "Knowledge Graphs", "Event-Sourcing"]
+  },
+  retrievalEngine: {
+    search: "Hybrid Search (BM25 + Semantic Embeddings)",
+    orchestration: ["Voyage AI", "Rerankers", "Semantic Cache"]
+  },
+  orchestrationHarness: {
+    frameworks: ["cc10x", "Claude Code", "Cursor Rules", "LangChain"]
+  },
+  connectivity: {
+    protocol: "Model Context Protocol (MCP)",
+    integrations: ["Claude Desktop", "Cursor Desktop", "Windsurf", "Claude Code"]
+  }
 };
 ```
 
-<br clear="right"/>
+<br/>
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Creations
+## ⚡ `<active_subprocesses>`
+
+Key production-ready frameworks and gateways built to power high-performance agent workflows.
 
 <div align="center">
 
@@ -78,78 +93,60 @@ const romIluz = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Hybrid-Search-RAG
-**⭐ 60 stars** | The Ultimate RAG System
+### 🤖 [cc10x](https://github.com/romiluz13/cc10x)
+**Router-Owned Claude Code Harness**
+*145+ Stars • TypeScript/HTML*
 
-<a href="https://github.com/romiluz13/Hybrid-Search-RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=Hybrid-Search-RAG&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`Semantic Search` `BM25` `Reranking` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 WhatsApp AI
-**⭐ 41 stars** | AI-Powered Messaging
-
-<a href="https://github.com/romiluz13/whatsapp_ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=whatsapp_ai&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`WhatsApp API` `LLM Integration` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ CC10X
-**⭐ 101 stars** | Supercharge Claude Code
-
-<a href="https://github.com/romiluz13/cc10x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=cc10x&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`Claude Code` `Productivity` `AI Workflow`
+```bash
+# Supercharge your Claude Code workflow
+npx cc10x init
+```
+- Orchestrates multi-agent routing, execution plan review, and failure-stop gates.
+- Built-in context-budget optimization and durable session memory.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Agent with Memory
-**⭐ 19 stars** | Persistent AI Memory
+### 🦁 [ClawMongo](https://github.com/romiluz13/ClawMongo)
+**MongoDB-Native AI Gateway & Memory Engine**
+*24+ Stars • TypeScript*
 
-<a href="https://github.com/romiluz13/agent_with_memory">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=agent_with_memory&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`Memory Systems` `LangChain` `Agents`
+```bash
+# Install with production MongoDB backend
+pnpm install @romiluz/clawmongo
+```
+- Fork of OpenClaw replacing default SQLite memory with MongoDB.
+- Voyage AI vector search, event-sourcing, and 8 discrete retrieval paths.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Memory Engineering MCP
-**⭐ 13 stars** | MCP Memory Server
+### 📚 [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG)
+**State-of-the-Art RAG Implementation**
+*63+ Stars • Python*
 
-<a href="https://github.com/romiluz13/memory-engineering-mcp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=memory-engineering-mcp&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`MCP Protocol` `Memory` `Claude Integration`
+```python
+# Semantic Search + BM25 + Cross-Encoder Reranking
+from hybrid_rag import HybridSearchEngine
+```
+- Complete, production-ready hybrid retrieval engine.
+- Integrates advanced cross-encoders for optimal reranking performance.
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 EmbeDocs MCP
-**⭐ 7 stars** | Document Embedding Server
+### 🔌 [Memory MCP Server](https://github.com/mongodb-js/mongodb-mcp-server)
+**Official MongoDB Model Context Protocol Server**
+*7K+ LinkedIn Follower Highlight*
 
-<a href="https://github.com/romiluz13/EmbeDocs-MCP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romiluz13&repo=EmbeDocs-MCP&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF" />
-</a>
-
-`Embeddings` `RAG` `Document Processing`
+```bash
+# Run database tasks using natural language
+npx @mongodb-js/mongodb-mcp-server
+```
+- Created and deployed the official MongoDB MCP server.
+- Allows AI agents to execute schema inspection, querying, and setup in plain English.
 
 </td>
 </tr>
@@ -157,78 +154,58 @@ const romIluz = {
 
 </div>
 
-<!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+<br/>
 
-<div align="center">
+## 📦 `<published_packages>`
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,mongodb,docker,git,vscode,githubactions,fastapi,aws,react,nextjs,postgres,redis,linux,bash,discord,openai&perline=9" />
+Operational packages published to NPM and open-source directories for developer integration.
 
-</div>
+- **`@romiluz/clawmongo`**: High-performance, MongoDB-backed episodic memory gateway for autonomous agents.
+- **`@romiluz13/memory-mcp`**: Persistent memory Model Context Protocol (MCP) server for Claude, Cursor, and Windsurf.
+- **`@romiluz13/EmbeDocs-MCP`**: Automated document embedding and vector pipeline via MCP.
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Analytics
+<br/>
+
+## 📊 `<telemetry_and_metrics>`
+
+Real-time telemetry feeds monitoring active repository engagements and system statistics.
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=romiluz13&show_icons=true&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=false&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=romiluz13&theme=react&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiluz13&layout=compact&theme=react&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=false&langs_count=8" />
-
-</div>
-
-
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Rom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romiluz13&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/romiluz13)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiluz13&layout=compact&theme=react&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=false&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=romiluz13&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=false" />
 
 </div>
-
-<!-- WHAT I'M UP TO -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> Current Focus
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  🔬 RESEARCHING      │  Memory architectures for long-running agents        │
-│  🏗️  BUILDING        │  MCP servers that give AI superpowers               │
-│  📚 LEARNING         │  Advanced retrieval & reranking techniques          │
-│  🤝 COLLABORATING    │  Open to interesting AI/Agent projects              │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<!-- CONNECT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30"> Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-romiluz13-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romiluz13)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rom@iluz.net)
 
 <br/>
 
-**💡 Open to collaborations on AI Agents, RAG Systems, and MCP Development**
+## 🔗 `<handshake_protocols>`
+
+Establish connection parameters to collaborate on AI Agents, persistent memory, or MCP development.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-romiluz13-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117)](https://github.com/romiluz13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rom_Iluz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/rom-iluz)
+[![Email](https://img.shields.io/badge/Email-rom%40iluz.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:rom@iluz.net)
+
+<br/>
+
+**💡 Current Status: Open to high-impact collaborations on custom Agent Orchestrators, Advanced RAG Pipelines, and Enterprise MCP Servers.**
 
 </div>
 
-
+<br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00D9FF&height=120&section=footer" width="100%"/>
 
-<!-- VISITOR COUNTER (HIDDEN) -->
+<!-- VISITOR COUNTER -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/romiluz13/count.svg" />
 </div>
