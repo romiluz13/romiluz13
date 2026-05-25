@@ -25,7 +25,7 @@
 
 <!-- COGNITIVE ARCHITECTURE LOOP ANIMATION -->
 <p align="center">
-  <img src="docs/assets/cognitive-loop.svg" width="100%" alt="Cognitive Loop Architecture" />
+  <img src="https://raw.githubusercontent.com/romiluz13/romiluz13/main/docs/assets/cognitive-loop.svg" width="100%" alt="Cognitive Loop Architecture" />
 </p>
 
 <br/>
