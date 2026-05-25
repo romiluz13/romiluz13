@@ -97,10 +97,6 @@ Real conversational automation at scale. WhatsApp + LLMs done properly.
   </tr>
 </table>
 
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=romiluz13&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" />
-
 </div>
 
 ---
