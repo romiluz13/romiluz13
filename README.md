@@ -35,11 +35,11 @@
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 0 40px; border-right: 1px solid #30363d;">
       <font size="6" color="#00D9FF"><b>145+ ⭐</b></font><br/>
-      <font size="2" color="#8b949e"><b>CC10X HARNESS</b></font>
+      <font size="2" color="#8b949e"><b>CC10X</b></font>
     </td>
     <td align="center" style="border: none; padding: 0 40px; border-right: 1px solid #30363d;">
-      <font size="6" color="#00FF88"><b>Official</b></font><br/>
-      <font size="2" color="#8b949e"><b>MONGODB MCP SERVER</b></font>
+      <font size="6" color="#00FF88"><b>24+ ⭐</b></font><br/>
+      <font size="2" color="#8b949e"><b>CLAWMONGO</b></font>
     </td>
     <td align="center" style="border: none; padding: 0 40px;">
       <font size="6" color="#00D9FF"><b>18</b></font><br/>
@@ -63,30 +63,20 @@ I specialize in the cognitive engineering of AI systems. Instead of treating age
 
 ### ⚡ Featured Infrastructure
 
-My work focuses on creating open-source foundations and custom database integrations for the next generation of autonomous developers.
+#### 🤖 [cc10x](https://github.com/romiluz13/cc10x) — 145+ Stars
+**Router-Owned Claude Code Harness** — The execution layer that makes Claude Code reliable at scale.
 
-#### 🤖 [cc10x](https://github.com/romiluz13/cc10x) — Router-Owned Claude Code Harness
-*The custom execution harness designed to scale Claude Code workflows.*
-*   **Orchestration Trust:** Implements robust multi-agent routing, execution plan reviews, and failure-stop gates.
-*   **Context Optimization:** Built-in context-budget pruning and durable session memory layers to survive long-running debugging loops.
-*   <img src="https://img.shields.io/github/stars/romiluz13/cc10x?style=flat-square&color=00D9FF&labelColor=0D1117" alt="cc10x Stars" />
+#### 🦁 [ClawMongo](https://github.com/romiluz13/ClawMongo) — 24+ Stars
+**MongoDB-Native AI Memory Engine** — Production episodic memory, vector search, and knowledge graphs for autonomous agents. The canonical memory backend for serious agent work.
 
-#### 🦁 [ClawMongo](https://github.com/romiluz13/ClawMongo) — MongoDB-Native AI Gateway & Memory Engine
-*An enterprise replacement for volatile agent memory.*
-*   **Persistent Episodic Memory:** Fork of OpenClaw replacing default local SQLite memory with a production-grade MongoDB cluster.
-*   **Advanced Retrieval:** Features Voyage AI vector search, event-sourcing, and 8 discrete retrieval paths to ensure zero knowledge drift.
-*   <img src="https://img.shields.io/github/stars/romiluz13/ClawMongo?style=flat-square&color=00FF88&labelColor=0D1117" alt="ClawMongo Stars" />
+#### 🧠 [Memongo](https://github.com/romiluz13/Memongo)
+**Persistent Memory Infrastructure** — Core memory systems powering next-generation autonomous agents.
 
-#### 🔌 [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) — Official Model Context Protocol Integration
-*Connecting LLMs to enterprise databases in plain English.*
-*   **Zero-Boilerplate Execution:** Co-authored and deployed the official MongoDB MCP server, enabling Cursor, Windsurf, and Claude to execute secure database administration and querying out-of-the-box.
-*   **Global Reach:** Featured extensively on LinkedIn (reaching over 7,000+ industry professionals) and integrated into official MongoDB workflows.
+#### 📚 [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG) — 63+ Stars
+**State-of-the-Art Hybrid Retrieval** — BM25 + semantic embeddings + cross-encoder reranking at production scale.
 
-#### 📚 [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG) — SOTA Retrieval-Augmented Generation
-*Production hybrid search with extreme precision.*
-*   **Dual-Path Retrieval:** Combines BM25 lexical keyword matching with dense semantic embeddings for optimal coverage.
-*   **Cross-Encoder Reranking:** Integrates deep reranking networks to maximize retrieval precision while minimizing token footprint.
-*   <img src="https://img.shields.io/github/stars/romiluz13/Hybrid-Search-RAG?style=flat-square&color=00D9FF&labelColor=0D1117" alt="RAG Stars" />
+#### 💬 [whatsapp_ai](https://github.com/romiluz13/whatsapp_ai) — 43+ Stars
+**Conversational AI Automation** — Production-grade WhatsApp + LLM integration.
 
 ---
 
