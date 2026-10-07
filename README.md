@@ -36,14 +36,6 @@ I build open-source tools for coding agents, with a focus on the gap between wha
 <a href="https://github.com/romiluz13/pi-agent-skills"><img src="https://img.shields.io/badge/pi--agent--skills-152235?style=for-the-badge&logo=github&logoColor=b4a0e7" alt="pi-agent-skills" /> <img src="https://img.shields.io/github/stars/romiluz13/pi-agent-skills?style=for-the-badge&label=stars&labelColor=152235&color=b4a0e7" alt="pi-agent-skills GitHub stars" /></a>
 </p>
 
-## What I want to measure
-
-**Does a skill help on real tasks?** Does a green result satisfy the actual contract? Does a remembered fact still have support?
-
-Same model, same tasks, one changed component - publishing prompts, checks and results, including the losses.
-
-> Scripted checks test the harness. They are not a substitute for live-model evidence.
-
 ## MongoDB and retrieval
 
 [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG) and [Memongo](https://github.com/romiluz13/Memongo) - retrieval and persistent agent memory.
