@@ -12,32 +12,14 @@ I build open-source tools for coding agents, with a focus on the gap between wha
 
 ## Start here
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / cc10x</h3>
-<p>Flagship Claude Code harness: routing, workflows, review and evidence gates.</p>
-<p><a href="https://github.com/romiluz13/cc10x">Explore cc10x →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>02 / jevmory</h3>
-<p>Local agent memory with verbatim quotes and receipts. A stored quote is evidence of what was said, not proof it is true.</p>
-<p><a href="https://github.com/romiluz13/jevmory">Explore jevmory →</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / team-lead</h3>
-<p>Delegation and evidence-backed acceptance.</p>
-<p><a href="https://github.com/romiluz13/team-lead-skill">Explore team-lead →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>04 / AST-Bench</h3>
-<p>Reproducible DB-comparison experiments, same-agent comparisons only.</p>
-<p><a href="https://github.com/romiluz13/llm-friendly-bench">Explore AST-Bench →</a></p>
-</td>
-</tr>
-</table>
+<img src="evidence-projects.svg" width="100%" alt="Six featured repositories: cc10x, Hybrid-Search-RAG, whatsapp_ai, ClawMongo, Memongo, pi-agent-skills." />
+
+01. [cc10x](https://github.com/romiluz13/cc10x)
+02. [Hybrid-Search-RAG](https://github.com/romiluz13/Hybrid-Search-RAG)
+03. [whatsapp_ai](https://github.com/romiluz13/whatsapp_ai)
+04. [ClawMongo](https://github.com/romiluz13/ClawMongo)
+05. [Memongo](https://github.com/romiluz13/Memongo)
+06. [pi-agent-skills](https://github.com/romiluz13/pi-agent-skills)
 
 ## What I want to measure
 
